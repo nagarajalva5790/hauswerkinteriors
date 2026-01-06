@@ -168,10 +168,10 @@ const Footer = () => {
           <div>
             <h4 className='font-bold text-lg mb-6'>Our Services</h4>
             <ul className='space-y-4 text-neutral-400 text-sm'>
-              <li>Home Interior Bangalore</li>
-              <li>Modular Kitchen Bangalore</li>
-              <li>Plumbing Services Bangalore</li>
-              <li>Electrical Services Bangalore</li>
+              <li>Home Interiors</li>
+              <li>Modular Kitchens</li>
+              <li>Plumbing Services</li>
+              <li>Electrical Services</li>
             </ul>
           </div>
 

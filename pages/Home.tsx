@@ -24,11 +24,11 @@ const Home = () => {
               Bangalore's Premier Home Experts
             </span>
             <h1 className='text-5xl md:text-7xl font-bold mb-8 leading-[1.1] animate-slideInLeft delay-100 font-serif'>
-              Premium <span className='text-amber-400'>Home Interior</span> Bangalore.
+              Premium <span className='text-amber-400'>Home Interiors</span>.
             </h1>
             <p className='text-lg md:text-xl mb-10 text-neutral-100 leading-relaxed font-light animate-slideInLeft delay-200'>
-              Specializing in high-end modular kitchen Bangalore designs and end-to-end luxury transformations. Quality
-              workmanship with 100% price transparency.
+              Specializing in high-end modular kitchen designs and end-to-end luxury transformations. Quality workmanship with
+              100% price transparency.
             </p>
             <div className='flex flex-col sm:flex-row gap-4 animate-slideInLeft delay-300'>
               <Link
@@ -53,11 +53,11 @@ const Home = () => {
         <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
           <div className='grid md:grid-cols-2 gap-16 items-center'>
             <div>
-              <h2 className='text-4xl font-bold text-neutral-900 mb-8 font-serif'>Expert Home Interior Bangalore Solutions.</h2>
+              <h2 className='text-4xl font-bold text-neutral-900 mb-8 font-serif'>Expert Home Interior Solutions.</h2>
               <p className='text-neutral-600 leading-relaxed mb-6 text-lg'>
                 HausWerk Interiors is a premium home interior Bangalore company offering end-to-end design and maintenance. From
-                contemporary modular kitchen Bangalore setups to reliable plumbing and electrical services Bangalore, we are
-                your trusted local partner.
+                contemporary modular kitchen setups to reliable plumbing and electrical services, we are your trusted local
+                partner.
               </p>
               <p className='text-neutral-600 leading-relaxed mb-10'>
                 Whether it's a new 3BHK apartment in Sarjapur or a luxury villa renovation in Whitefield, our team delivers
@@ -98,7 +98,7 @@ const Home = () => {
           <div className='text-center mb-16'>
             <h2 className='text-4xl font-bold text-neutral-900 mb-4 font-serif'>Our Core Expertise</h2>
             <p className='text-neutral-500 max-w-2xl mx-auto text-lg'>
-              From professional modular kitchen Bangalore units to home maintenance, we cover every aspect of your property.
+              From professional modular kitchen units to home maintenance, we cover every aspect of your property.
             </p>
           </div>
           <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8'>
@@ -141,9 +141,7 @@ const Home = () => {
           <div className='flex flex-col md:flex-row justify-between items-end mb-16'>
             <div className='max-w-2xl'>
               <h2 className='text-4xl font-bold text-neutral-900 mb-4 font-serif'>Home Inspiration</h2>
-              <p className='text-neutral-500 text-lg'>
-                Expert advice on home interior Bangalore and maintenance for property owners.
-              </p>
+              <p className='text-neutral-500 text-lg'>Expert advice on home interiors and maintenance for property owners.</p>
             </div>
             <Link to='/blog' className='mt-6 md:mt-0 text-amber-600 font-bold flex items-center group text-lg'>
               View all articles <ChevronRight className='ml-1 group-hover:translate-x-1 transition-transform' />
@@ -216,7 +214,7 @@ const Home = () => {
               </div>
               <h3 className='text-3xl font-bold mb-6 font-serif'>Ready to transform your home?</h3>
               <p className='text-neutral-600 mb-10 text-lg leading-relaxed'>
-                Schedule a site visit with our experts for your home interior Bangalore project today.
+                Schedule a site visit with our experts for your home interior project today.
               </p>
               <div className='space-y-4'>
                 <a

@@ -92,25 +92,23 @@ export const BLOG_POSTS: BlogPost[] = [
     title: 'Top 5 Interior Design Trends for Bangalore Apartments in 2024',
     date: 'May 12, 2024',
     category: 'Design Trends',
-    excerpt:
-      "From biophilic elements to 'quiet luxury', discover what's shaping modern home interior Bangalore trends this year.",
+    excerpt: "From biophilic elements to 'quiet luxury', discover what's shaping modern home interior trends this year.",
     image: 'https://images.unsplash.com/photo-1615529182906-c3409a82faac?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'monsoon-maintenance',
-    title: 'Essential Home Maintenance Checklist for Bangalore Monsoon',
+    title: 'Essential Home Maintenance Checklist for Monsoon',
     date: 'April 28, 2024',
     category: 'Maintenance',
-    excerpt: 'Ensure your home stays damp-free and vibrant during the heavy Bangalore rains with our expert maintenance guide.',
+    excerpt: 'Ensure your home stays damp-free and vibrant during the heavy rains with our expert maintenance guide.',
     image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'kitchen-materials',
-    title: 'Choosing the Right Materials for Your Modular Kitchen Bangalore',
+    title: 'Choosing the Right Materials for Your Modular Kitchen',
     date: 'April 15, 2024',
     category: 'Materials',
-    excerpt:
-      'A comparison of BWP Plywood vs. MDF for your modular kitchen Bangalore project and best finishes for Indian cooking.',
+    excerpt: 'A comparison of BWP Plywood vs. MDF for your modular kitchen project and best finishes for Indian cooking.',
     image: 'https://images.unsplash.com/photo-1556911223-e25424f1367c?auto=format&fit=crop&q=80&w=800',
   },
   {
@@ -126,58 +124,57 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SERVICES: Service[] = [
   {
     id: 'interior-design',
-    title: 'Home Interior Bangalore',
-    description: 'End-to-end home interior Bangalore services from conceptual moodboards to high-quality site handover.',
+    title: 'Home Interiors',
+    description: 'End-to-end home interior services from conceptual moodboards to high-quality site handover.',
     icon: 'Home',
     image: 'https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'modular-kitchen',
-    title: 'Modular Kitchen Bangalore',
-    description: 'Ergonomic, high-quality modular kitchen Bangalore solutions with premium hardware and sleek finishes.',
+    title: 'Modular Kitchens',
+    description: 'Ergonomic, high-quality modular kitchen solutions with premium hardware and sleek finishes.',
     icon: 'ChefHat',
     image: 'https://images.unsplash.com/photo-1556911223-e25424f1367c?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'wardrobes',
     title: 'Wardrobes & Storage',
-    description: 'Custom storage solutions designed for maximum efficiency and modern aesthetics in Bangalore homes.',
+    description: 'Custom storage solutions designed for maximum efficiency and modern aesthetics.',
     icon: 'DoorOpen',
     image: 'https://images.unsplash.com/photo-1595428774223-ef0486e4c373?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'false-ceiling',
     title: 'False Ceiling & Lighting',
-    description:
-      'Designer ceilings integrated with sophisticated lighting for the perfect ambiance in your Bangalore residence.',
+    description: 'Designer ceilings integrated with sophisticated lighting for the perfect ambiance in your residence.',
     icon: 'Layers',
     image: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'plumbing',
-    title: 'Plumbing Services Bangalore',
-    description: 'Reliable plumbing services Bangalore for residential maintenance, leak-proof piping, and installations.',
+    title: 'Plumbing Services',
+    description: 'Reliable plumbing services for residential maintenance, leak-proof piping, and installations.',
     icon: 'Droplet',
     image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'electrical',
-    title: 'Electrical Services Bangalore',
-    description: 'Safe, certified electrical services Bangalore including professional wiring and premium switchgear setups.',
+    title: 'Electrical Services',
+    description: 'Safe, certified electrical services including professional wiring and premium switchgear setups.',
     icon: 'Zap',
     image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'painting',
     title: 'Painting & Polishing',
-    description: 'Premium wall finishes and wood polishing services that breathe new life into your Bangalore property.',
+    description: 'Premium wall finishes and wood polishing services that breathe new life into your property.',
     icon: 'Paintbrush',
     image: 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'renovation',
     title: 'Renovation & Repair',
-    description: 'Complete home makeover services in Bangalore, from structural changes to cosmetic upgrades.',
+    description: 'Complete home makeover services, from structural changes to cosmetic upgrades.',
     icon: 'Hammer',
     image: 'https://images.unsplash.com/photo-1503387762-592dee58c460?auto=format&fit=crop&q=80&w=800',
   },
@@ -204,8 +201,7 @@ export const ICON_MAP: Record<string, React.ElementType> = {
 export const REASONS = [
   {
     title: 'Single Point of Contact',
-    description:
-      'We manage every vendor and detail, so you only talk to one professional for your home interior Bangalore project.',
+    description: 'We manage every vendor and detail, so you only talk to one professional for your home interior project.',
     icon: 'UserCheck',
   },
   {
@@ -215,7 +211,7 @@ export const REASONS = [
   },
   {
     title: 'Quality Workmanship',
-    description: 'Rigorous quality checks at every stage of modular kitchen Bangalore design and execution.',
+    description: 'Rigorous quality checks at every stage of modular kitchen design and execution.',
     icon: 'ShieldCheck',
   },
   {
