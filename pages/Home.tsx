@@ -212,7 +212,7 @@ const Home = () => {
             </div>
             <div className='bg-white text-neutral-900 p-10 md:p-12 rounded-[2.5rem] shadow-2xl relative'>
               <div className='absolute -top-4 -right-4 bg-amber-600 text-white px-6 py-2 rounded-full text-xs font-bold uppercase tracking-widest shadow-xl'>
-                Best Service 2024
+                Best Service 2025
               </div>
               <h3 className='text-3xl font-bold mb-6 font-serif'>Ready to transform your home?</h3>
               <p className='text-neutral-600 mb-10 text-lg leading-relaxed'>
